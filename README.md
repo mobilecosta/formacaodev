@@ -1,6 +1,7 @@
 Ionic x Angular - Conceithos
 
 Gravações em: 30/04/2022
+
 https://youtu.be/rnXML0JKQbw
 
 https://youtu.be/Q0l0Aw-D1g8
